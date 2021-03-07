@@ -1,0 +1,54 @@
+button {
+    color: #AC3B61;
+    text-align: center;
+    padding: 10px 31px;
+    background-color: #EDC7B7;
+    font-size: 43px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: #EEE2DC;
+}
+
+footer{
+    background-color: #EDC7B7;
+    height: 45px;
+}
+
+h1 {
+    color: #123C69;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 60px;
+	text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #B19CD9;
+  }
+
+p {
+   color: #123C69;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 30px;
+   border: 5px solid #AC3B61;
+}
+
+/*hover effect for navigation bar buttons*/
+button :hover{
+    color: lightblue;
+    border: #123C69;
+    border-color: #123C69;
+    border-width: medium;
+    background-color: #84CEEB;
+}  
+
+h2 {
+   color: #AC3B61;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 45px;
+   border: 5px solid #123C69;
+}
