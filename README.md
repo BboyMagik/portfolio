@@ -1,3 +1,3 @@
-# portfolio_
+# portfolio
 Comsci tech portfolio
-https://bboymagik.github.io/portfolio_/
+https://bboymagik.github.io/portfolio/
