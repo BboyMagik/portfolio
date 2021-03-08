@@ -9,3 +9,7 @@ function welcome() {
     alert ("Welcome to my website" + username);
 
 }
+
+function message {}{
+    alert('Welcome to my Website!');
+}
